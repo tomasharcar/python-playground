@@ -1,3 +1,7 @@
+#Create excel overview from the Blue Prism .xml exports
+#It will collect all used VBOs and their actions, pages in the process and exceptions
+
+
 def GetXMLFile():
     import easygui
     import os
